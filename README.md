@@ -6,7 +6,7 @@ The official implementation of the paper "HyperMoE: Towards Better Mixture of Ex
 
 ## Weight
 
-We provide model weights trained on SQuAD :
+We provide model weights tuned on SQuAD :
 
 [Switch Transformer](https://drive.google.com/drive/u/0/my-drive)
 
