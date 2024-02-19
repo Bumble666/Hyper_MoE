@@ -12,6 +12,8 @@ We provide model weights tuned on SQuAD :
 
 [Switch Transformer HyperMoE](https://drive.google.com/drive/u/0/my-drive)
 
+## Citation
+
 if you find this repository useful, please cite our paper:
 
     @article{hao2024hmoe,
