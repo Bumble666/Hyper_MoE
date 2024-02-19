@@ -10,7 +10,7 @@ We provide model weights tuned on SQuAD :
 
 [Switch Transformer](https://drive.google.com/drive/u/0/my-drive)
 
-[Switch Transformer HyperMoE](https://drive.google.com/drive/u/0/my-drive)
+[Switch Transformer HyperMoE]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/10JC1FQLrl4KeQmpPDYVR_aRmRal0TqJF/view?usp=sharing))
 
 ## Citation
 
