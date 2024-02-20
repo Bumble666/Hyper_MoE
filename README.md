@@ -8,7 +8,7 @@ The official implementation of the paper "HyperMoE: Towards Better Mixture of Ex
 
 We provide model weights tuned on SQuAD :
 
-[Switch Transformer](https://drive.google.com/drive/u/0/my-drive)
+[Switch Transformer](https://drive.google.com/file/d/1B_zwvAC6RrrCo8g72O6yu_HOvTVhPgCm/view?usp=sharing)
 
 [Switch Transformer HyperMoE](https://drive.google.com/file/d/10JC1FQLrl4KeQmpPDYVR_aRmRal0TqJF/view?usp=sharing)
 
