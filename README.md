@@ -1,6 +1,6 @@
 # HyperMoE_early_version
 
-The official implementation of the paper "HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts"
+The official implementation of the paper "[HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts](https://arxiv.org/abs/2402.12656)"
 
 **Our code will be released soon.**
 
