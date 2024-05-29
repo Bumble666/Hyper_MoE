@@ -66,9 +66,9 @@ The implementations of the codebase are from the [Merging Experts into One](http
 
 if you find this repository useful, please cite our paper:
 
-    @article{hao2024hmoe,
+    @inproceedings{hao2024hmoe,
       title={HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts},
       author={Hao Zhao, Zihan Qiu, Huijia Wu, Zili Wang, Zhaofeng He, Jie Fu},
-      journal={arXiv preprint},
+      booktitle={Proceedings of ACL},
       year={2024}
     }
